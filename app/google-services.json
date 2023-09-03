@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "359320660361",
+    "project_id": "kart-982fd",
+    "storage_bucket": "kart-982fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359320660361:android:124d15e6543d5c1fd61958",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359320660361-rnmab30plu14ii12cu3dp6vc2q5p7rr8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtL3Ek9xO03FDJJdW3pUsiwuOgBN2g6hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359320660361-rnmab30plu14ii12cu3dp6vc2q5p7rr8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
